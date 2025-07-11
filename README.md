@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Im a Computer Science at Dalhousie University, currently I work as a Undergraduate Reasercher at Programmable and Intelligent Networking Lab, under the supervision of Dr. Israat Haque!
+
+I like Computer Networks and their security, as well backend development.  
+
 <!--
 **nir2602/nir2602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
