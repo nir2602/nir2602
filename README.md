@@ -4,7 +4,7 @@ I'm a Computer Science at Dalhousie University, currently I work as a Undergradu
 
 Previously I worked as a Junior Software Engineer for Nova Scotia's Department of Cybersecurity & Digital Solutions.
 
-I like Computer Networks and their security, as well backend development!  
+I like Computer Networks and their security, as well backend development! Additionally this fall I will be taking courses in Machine Learning and Advanced Cybersecurity.   
 
 <!--
 **nir2602/nir2602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
