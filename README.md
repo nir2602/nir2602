@@ -6,6 +6,11 @@ Previously I worked as a Junior Software Engineer for Nova Scotia's Department o
 
 I like Computer Networks and their security, as well backend development! Additionally this fall I will be taking courses in Machine Learning and Advanced Cybersecurity.   
 
+### Languages and Tools
+![C](https://img.shields.io/badge/---?color=282d39&label=%20&logo=c&logoColor=d7ddd9&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-282d39?logo=c-sharp&logoColor=d7ddd9&style=for-the-badge)
+![Python](https://img.shields.io/badge/---?color=282d39&label=%20&logo=Python&logoColor=d7ddd9&style=for-the-badge)
+
 <!--
 **nir2602/nir2602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
