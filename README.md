@@ -4,7 +4,8 @@ I'm a Computer Science at Dalhousie University, currently I work as a Undergradu
 
 Previously I worked as a Junior Software Engineer for Nova Scotia's Department of Cybersecurity & Digital Solutions.
 
-I like Computer Networks and their security, as well backend development! Additionally this fall I will be taking courses in Machine Learning and Advanced Cybersecurity.   
+I like Computer Networks and their security, as well backend development! I have previously taken courses on, but not limited too, Advanced Cybersecurity, Advanced Networks, Machine Learning in Wireless Networks, Software Defined Networking, and Software Engineering. 
+ 
 
 ### Languages and Tools
 ![C](https://img.shields.io/badge/---?color=282d39&label=%20&logo=c&logoColor=d7ddd9&style=for-the-badge)
